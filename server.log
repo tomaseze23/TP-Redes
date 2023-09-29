@@ -1,0 +1,84 @@
+29-9-2023_16:55
+=============================
+=======Inicia Servidor=======
+=============================
+
+29-9-2023_16:55
+=============================
+=======Inicia Servidor=======
+=============================
+
+29-9-2023_16:55
+=============================
+=======Inicia Servidor=======
+=============================
+
+29-9-2023_16:55: Socket creado. Puerto de escucha: 5005
+29-9-2023_16:56: Inicio de sesion – usuario: admin
+29-9-2023_16:56: Traduccion agregada: university:universidad
+29-9-2023_16:57: Usuario registrado: carlos
+29-9-2023_16:57: Cierre de sesion – usuario: admin
+29-9-2023_16:58
+=============================
+=======Inicia Servidor=======
+=============================
+
+29-9-2023_16:58: Socket creado. Puerto de escucha: 5005
+29-9-2023_16:58: Inicio de sesion – usuario: carlos
+29-9-2023_16:58: Usuario hizo una consulta de traduccion.
+29-9-2023_16:58: Usuario hizo una consulta de traduccion.
+29-9-2023_16:58: Cierre de sesion – usuario: carlos
+29-9-2023_16:59
+=============================
+=======Inicia Servidor=======
+=============================
+
+29-9-2023_16:59: Socket creado. Puerto de escucha: 5005
+29-9-2023_16:59: Inicio de sesion – usuario: admin
+29-9-2023_17:0: Usuario registrado: roberto
+29-9-2023_17:0: Usuario registrado: romina
+29-9-2023_17:0: Traduccion agregada: dog:perro
+29-9-2023_17:0: Traduccion agregada: cat:gato
+29-9-2023_17:0: Cierre de sesion – usuario: admin
+29-9-2023_17:1
+=============================
+=======Inicia Servidor=======
+=============================
+
+29-9-2023_17:1: Socket creado. Puerto de escucha: 5005
+29-9-2023_17:1: Inicio de sesion – usuario: romina
+29-9-2023_17:1: Usuario hizo una consulta de traduccion.
+29-9-2023_17:1: Usuario hizo una consulta de traduccion.
+29-9-2023_17:1: Cierre de sesion – usuario: romina
+29-9-2023_17:2
+=============================
+=======Inicia Servidor=======
+=============================
+
+29-9-2023_17:2: Socket creado. Puerto de escucha: 5005
+29-9-2023_17:2: Inicio de sesion – usuario: admin
+29-9-2023_17:3: Usuario registrado: micaela
+29-9-2023_17:4: Usuario desbloqueado: roberto
+29-9-2023_17:4: Cierre de sesion – usuario: admin
+29-9-2023_17:4
+=============================
+=======Inicia Servidor=======
+=============================
+
+29-9-2023_17:4: Socket creado. Puerto de escucha: 5005
+29-9-2023_17:5: Inicio de sesion – usuario: roberto
+29-9-2023_17:5: Cierre de sesion – usuario: roberto
+29-9-2023_17:5
+=============================
+=======Inicia Servidor=======
+=============================
+
+29-9-2023_17:5: Socket creado. Puerto de escucha: 5005
+29-9-2023_17:6: Inicio de sesion – usuario: admin
+29-9-2023_17:6: Cierre de sesion – usuario: admin
+29-9-2023_18:42
+=============================
+=======Inicia Servidor=======
+=============================
+
+29-9-2023_18:42: Socket creado. Puerto de escucha: 5005
